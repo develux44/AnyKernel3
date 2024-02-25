@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=uvite
+kernel.string=uvite-ksu
 kernel.compiler=AOSP clang
 kernel.made=CHRISL7
 message.word=
