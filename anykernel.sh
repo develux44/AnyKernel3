@@ -5,7 +5,7 @@
 # global properties
 properties() { '
 kernel.string=vauxite
-kernel.compiler=QCOM clang
+kernel.compiler=? clang
 kernel.made=develux
 message.word=
 do.devicecheck=1
