@@ -5,16 +5,17 @@
 # global properties
 properties() { '
 kernel.string=vauxite
-kernel.compiler=AOSP clang
-kernel.made=CHRISL7
+kernel.compiler=QCOM clang
+kernel.made=develux
 message.word=
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=spes
-device.name2=spesn
+device.name1=fog
+device.name2=rain
+device.name3=wind
 supported.versions=13.0-15.0
 supported.patchlevels=
 supported.vendorpatchlevels=
